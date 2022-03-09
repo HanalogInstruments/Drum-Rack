@@ -12,3 +12,6 @@ You can buy Drumkid fully assembled or as a kit from <mattbradshawdesign.com>
 
 # Setup
 DrumKid is based around an Arduino Nano, and coded using the Arduino IDE. Audio is produced by the Mozzi library. You can build a version of DrumKid using an Arduino, a breadboard, and standard electronic components, or you can build/buy the "full" version described below.
+
+# Special Thanks
+-   [mattybrad](https://github.com/mattybrad)
