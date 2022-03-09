@@ -4,6 +4,17 @@ Based on Drumkid
 # Panel Size
 18HP - 91.3mm x 128.5mm
 
+# Features/specs
+* 3.5mm audio output (headphones/aux)
+* MIDI clock/CC input
+* MIDI note/clock output
+* 16 adjustable parameters
+* Tap tempo
+* 36 save slots
+* Open source design with editable firmware
+* Hackable case and circuit board, designed for customisation
+* Eurorack Bus Board power supply
+
 # Lo-fi aleatoric Arduino drum machine
 
 # Concept
