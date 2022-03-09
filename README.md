@@ -1,6 +1,9 @@
 # Drum-Rack
 Based on Drumkid
 
+# Panel Size
+18HP - 91.3mm x 128.5mm
+
 # Lo-fi aleatoric Arduino drum machine
 
 # Concept
