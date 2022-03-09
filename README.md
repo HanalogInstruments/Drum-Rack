@@ -4,6 +4,7 @@ Based on Drumkid
 # Lo-fi aleatoric Arduino drum machine
 
 # Concept
+![image](https://github.com/HanalogInstruments/Drum-Rack/blob/main/Case/V1/Drum_Rack_Panel.png)
 A drum machine which generates rhythms using probability. Imagine a traditional step-based drum machine, but where various dice are rolled for each step, with the resulting numbers used to determine the behaviour of the beat.
 
 # Buy Drumkid
